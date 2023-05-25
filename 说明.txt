@@ -1,0 +1,8 @@
+#目录介绍：
+spider.py	# 爬虫文件
+plant.py	# 绘制词云图文件
+app.py	# flask项目运行文件
+film_info.csv	# 爬取下来的数据存储文件
+templates	# 页面文件
+static	# js、页面图片之类的
+#Github:GavenZh
